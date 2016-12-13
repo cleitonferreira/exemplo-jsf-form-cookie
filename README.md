@@ -1,2 +1,2 @@
 # exemplo-jsf-form-cookie
-Um simples exemplo utilizando cookies no JSF
+Um simples exemplo, utilizando cookies no JSF
